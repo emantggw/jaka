@@ -2,7 +2,7 @@ name: jaka
 description: CLI to generate Android JKS keystores from key.properties with interactive or flag-based input.
 version: 1.0.0
 publish_to: https://pub.dev
-homepage: https://t.me/emantggw
+homepage: https://github.com/emantggw/jaka
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
